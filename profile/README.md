@@ -1,4 +1,4 @@
-## Labor as Capital DAO is a first and only real DeFi DAO with governance token backed by real human labor
+## Labor as Capital DAO is the first and only real DeFi DAO with governance token backed by real human labor
 
 To get more detailed information, knowledge, and resources, start with it's White Paper [https://github.com/Labor-as-Capital-DAO/public-docs/blob/main/WhitePaper.md](https://github.com/Labor-as-Capital-DAO/public-docs/blob/main/WhitePaper.md).
 
