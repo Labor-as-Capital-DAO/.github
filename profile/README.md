@@ -5,3 +5,6 @@ To get more detailed information, knowledge, and resources, start with its **Whi
 
 
 #### Don't forget to click "Follow" in the top right corner so you don't miss any official updates!
+
+### List of the iol-businesses in Portfolio LaC:
+
