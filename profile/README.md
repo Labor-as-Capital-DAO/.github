@@ -1,4 +1,4 @@
-## Labor as Capital DAO is the first and only real DeFi DAO with governance token backed by real human labor
+## Labor as Capital DAO ( LaC DAO ) is the first and only real DeFi DAO with governance token backed by real human labor
 
 The unique technical and engineering-intellectual resources of LaC DAO include the exclusive commercial representation of the Internet of Labour ecosystem / platform ( iol ) and a partnership with Distributed Digital Nomads ( DDN ).
 
